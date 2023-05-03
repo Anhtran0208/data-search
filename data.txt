@@ -1,0 +1,10 @@
+The Fifth Season,N.K. Jemisin,378,2015,science fantasy,
+Bad Blood,John Carreyrou,351,2018,true crime,
+Half a Lifelong Romance,Eileen Chang,320,1948,fiction,
+One Hundred Years of Solitude,Gabriel Garcia Marquez,417,1967,magical realism,
+Pride,Ibi Zoboi,304,2018,fiction,
+Pale Blue Dot,Carl Sagan,429,1994,astronomy,
+Crystal Boys,Pai Hsien-yung,334,1983,fiction,
+In the Dream House,Carmen Maria Machado,298,2019,memoir
+The Stranger,Albert Camus,134,1942,fiction,
+Trans Wizard Harriet Porber And The Bad Boy Parasaurolophus,Chuck Tingle,158,2020,satire,
