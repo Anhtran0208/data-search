@@ -1,2 +1,1 @@
-Name: Anh Tran 
-Assignment 5
+This program will mimic a database search. After the information is read in, your program will sort the data alphabetically and then perform a recursive binary search to determine if the given seek values exist in the data. The program will then write to an output file which seek values were found and which were not.
